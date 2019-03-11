@@ -86,7 +86,7 @@ function displayRandom(){
 
 function win() {
 	alert("Congratulations! Restart Escape Room?");
-	document.location.href = "https://www.google.com"
+	document.location.href = "https://leahtorres.github.io/phase8/index1.html"
 }
 
 function arraysLengthEqual(arr1, arr2) {
