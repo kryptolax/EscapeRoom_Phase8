@@ -85,7 +85,7 @@ function displayRandom(){
 }
 
 function win() {
-	
+	alert("Ship Activated. Protocol Initiated.")
 	document.location.href = "https://kryptolax.github.io/Congrats/"
 }
 
