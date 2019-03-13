@@ -85,6 +85,7 @@ function displayRandom(){
 }
 
 function win() {
+	
 	document.location.href = "https://kryptolax.github.io/Congrats/"
 }
 
