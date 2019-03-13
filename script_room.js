@@ -85,7 +85,6 @@ function displayRandom(){
 }
 
 function win() {
-	alert("Congratulations! Restart Escape Room?");
 	document.location.href = "https://kryptolax.github.io/Congrats/"
 }
 
