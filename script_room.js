@@ -158,8 +158,7 @@ function userInput(el) {
 								three.classList.remove('show_sequence_again');
 								three.removeEventListener("click", showSequenceTwo);
 								showRight();
-								setTimeout(showSequenceThree, 1000);
-								phase++;
+								setTimeout(win, 1000);
 						} else {
 								console.log("Incorrect Sequence")
 								three.classList.remove('show_sequence_again');
